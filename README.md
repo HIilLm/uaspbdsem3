@@ -10,7 +10,7 @@ Halo! Nama saya **Hilzam** dari Prodi Bisnis Digital, UNESA. Ini adalah reposito
 - **Teman Bisnis** 💼
 - **Teman Belajar** 📚
 
-Aplikasi ini dibangun menggunakan bahasa pemrograman **PHP** dengan struktur basis data yang dirancang untuk mempermudah pengelompokan dan pencarian data berdasarkan kategori.
+Aplikasi ini dibangun menggunakan bahasa pemrograman **PHP**.
 
 ---
 
@@ -36,7 +36,7 @@ Sebelum memulai, pastikan Anda memiliki:
 2. **Masuk ke Direktori Projek**
 
    ```bash
-   cd projek-uas-pbd
+   cd uaspbdsem3
    ```
 
 3. **Konfigurasi Database**
