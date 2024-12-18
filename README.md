@@ -1,18 +1,20 @@
-# Projek UAS Mata Kuliah Perancangan Basis Data
+# Projek UAS Mata Kuliah Perancangan Basis Data 🎓
 
-## Tentang Projek
+## Tentang Projek 💡
 
 Halo! Nama saya **Hilzam** dari Prodi Bisnis Digital, UNESA. Ini adalah repositori untuk proyek UAS mata kuliah Perancangan Basis Data. Projek ini adalah sebuah aplikasi berbasis web sederhana yang menampilkan daftar teman dari berbagai tahap kehidupan saya (SD hingga kantor), dengan kategori:
 
-- **Teman Dekat**
-- **Teman Nongkrong**
-- **Teman Curhat**
-- **Teman Bisnis**
-- **Teman Belajar**
+- **Teman Dekat** 🤝
+- **Teman Nongkrong** 🍻
+- **Teman Curhat** 🗨️
+- **Teman Bisnis** 💼
+- **Teman Belajar** 📚
 
-Aplikasi ini dibangun menggunakan bahasa pemrograman **PHP**.
+Aplikasi ini dibangun menggunakan bahasa pemrograman **PHP** dengan struktur basis data yang dirancang untuk mempermudah pengelompokan dan pencarian data berdasarkan kategori.
 
-## Prasyarat
+---
+
+## Prasyarat 🛠️
 
 Sebelum memulai, pastikan Anda memiliki:
 
@@ -23,7 +25,7 @@ Sebelum memulai, pastikan Anda memiliki:
 
 ---
 
-## Cara Mengunduh dan Menjalankan Projek
+## Cara Mengunduh dan Menjalankan Projek 🚀
 
 1. **Clone Repositori**
 
@@ -34,12 +36,13 @@ Sebelum memulai, pastikan Anda memiliki:
 2. **Masuk ke Direktori Projek**
 
    ```bash
-   cd uaspbdsem3
+   cd projek-uas-pbd
    ```
 
 3. **Konfigurasi Database**
 
    - Buat database baru di MySQL/MariaDB.
+   - Impor file `database.sql` yang terdapat di direktori `sql` ke database Anda.
    - Konfigurasi kredensial database di file `config.php`:
      ```php
      <?php
@@ -66,10 +69,12 @@ Sebelum memulai, pastikan Anda memiliki:
 
 ---
 
-## Struktur Projek
+## Struktur Projek 🗂️
 
 - `index.php`: Halaman utama aplikasi.
 - `conn.php`: Konfigurasi database.
 - `assets/`: Berisi file CSS, JavaScript, dan media.
 
 ---
+
+Terima kasih sudah mengunjungi repositori ini! Semoga bermanfaat 😊
